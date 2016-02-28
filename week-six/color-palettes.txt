@@ -35,10 +35,13 @@ Representing growth and earth, I felt these colors best conveyed organically gro
 
 Filename: financial.png
 Explanation of your color choices:
-For the banking site
+For the banking site I chose to base colors that were a blue/green color. Blue representing trust and stability,
+while green representing wealth and affluence. As the opposite or contrasting colors are a gold, and a taupe color.
 
 
 * A triadic palette for a website that offers games for children.
 
 Filename:
 Explanation of your color choices:
+For a site the was designed for children, using a triadic color scheme, I went with the primary colors. 
+Primary colors or red, blue, and yellow, typically are used for relating to children and their learning.
