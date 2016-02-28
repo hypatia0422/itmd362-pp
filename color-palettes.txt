@@ -20,7 +20,7 @@ Explanation of your color choices:
   For this color palette I chose a to use dark colors, like black and dark/deep blue, with silver as an accent color.
   Black was described as powerful, masculine, and mysterious in our readings, dark blue was unemotional and reliable.
   Many video game sites make use of black as backdrop colors, or even as their main colors. Silver is associated with
-  technology. Noting that it is a high-end gaming laptop company I felt these coloe combinations, communicated technology and
+  technology. Noting that it is a high-end gaming laptop company I felt these color combinations, communicated technology and
   sophistication.
 
 * A shaded color palette for a website that sells natural and organic foods.
@@ -28,7 +28,8 @@ Explanation of your color choices:
 Filename: organic.png
 
 Explanation of your color choices:
-
+Green was a main color for my organic color palette. I chose earthy colors/tones such as green brown and beige.
+Representing growth and earth, I felt these colors best conveyed organically grown foods.
 
 * A complementary palette for a banking website.
 
