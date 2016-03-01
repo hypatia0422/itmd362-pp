@@ -36,5 +36,9 @@ Fine-grained, atomic commits to your Production Problems repository that include
 * How you implemented it in your sketch:
 I used a small box in the upper right corner to represent a way to the navigation bar. When pressed the navigation sidebar will open"
 
-* HCI Guideline Three (URL):
+* HCI Guideline Three (URL): https://www.google.com/design/spec/usability/accessibility.html
 * How you implemented it in your sketch:
+My sketch shows the "forgot you password?" and "help" prompts in red lettering, and in case of color blindness the text will be in
+a bold letter, and when the incorrect password is entered it will be responsive it a shake. Also for the final sketch. the solid
+black bars would actually have white lettering. The top would read Illinois Institute of Technology in IIT's font, and the bottom would have
+small white print with footer information, such as address, etc. 
