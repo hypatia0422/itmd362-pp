@@ -1,0 +1,25 @@
+# Production Problem 7: Usability Checklists
+
+## The Problem
+
+Usability checklists are typical, and sometimes mindless, tools/magic tricks used to find usability problems in web and other digital projects. What you are going to do for this Production Problem is to locate at least 2 different usability checklists of at least 25 items (use Google, but challenge yourself to go beyond the first page of results). From those lists, create your own, condensed list of exactly ten items. Share with your group for Project 3 to help yourselves create your own master usability checklist.
+
+## Deliverables
+
+* URLs for the usability checklists you've found:
+
+1. https://web.wsu.edu/wp-content/uploads/sites/7/2015/08/25-point-usability-checklist-final.pdf
+2. http://www.studyweb.com/test-your-website-a-57-point-checklist-for-maximum-usability/
+
+* Your own condensed, ten-item must-have usability checklist:
+
+1. Is your site responsive
+2. Clear interaction feedback is available at all times (e.g. progress bars, confirmation screens)
+3. The scope of the products and services are visible and quickly understood on the homepage
+4. The destination of navigation links is predictable (delivers the visitor to the promised content on the correct page)
+5. All major parts of the site are accessible from the home page
+6. Make sure the site is organized with consistent and intuitive structure and order. 
+7. Provide useful errore messages
+8. Can users find information quickly
+9. Keep forms simple and to the point, don't bog down user with unecessary requirements
+10. Provide visual clues to users for links and content
